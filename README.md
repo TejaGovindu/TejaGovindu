@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m Teja Govindu,<br>an aspiring developer focused on AI integration,<br>Java programming, and Data Structures & Algorithms.<br>I enjoy building intelligent applications, writing efficient code,<br>and solving real-world problems through strong logic and continuous learning.
+I’m Teja Govindu, an aspiring developer with a strong foundation in Java, Data Structures & Algorithms, and web development. I’ve worked on projects like a service portal website (shopping, medical booking, events, and movie tickets), and multiple front-end and full-stack practice projects focused on real-world use cases.
+
+Currently, I’m expanding my skills by integrating AI into applications, strengthening problem-solving with DSA, and building more Java-based and AI-powered projects. I believe in learning by building, writing clean code, and continuously improving through hands-on experience.
+
+I’m open to collaboration, learning opportunities, and projects that solve meaningful problems using technology.
 
 
 ## 🌐 Socials:
